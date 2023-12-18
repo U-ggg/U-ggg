@@ -1,7 +1,7 @@
 ## What's up buddy!
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=swift,github,gitlab,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,github,gitlab,figma,stackoverflow)](https://skillicons.dev)
 
 ## Contact me
 [<img src="images/telegram.png" width="32"/>](https://t.me/sidzhee "https://t.me/sidzhee")
