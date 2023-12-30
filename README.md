@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=U-ggg&color=green)
+
 ## What's up buddy!
 
 ### Skills
